@@ -7,14 +7,15 @@
 >src\
 >└─ main\
 >  &nbsp;├─ java.vn.techmaster.payroll\
->  &nbsp;│	 &nbsp;&nbsp;├─ controller\
->  &nbsp;│   &nbsp;&nbsp;├─ model\
->  &nbsp;│	 &nbsp;&nbsp;├─	repo\
->  &nbsp;│	 &nbsp;&nbsp;├─ services\
->  &nbsp;│   &nbsp;&nbsp;├─ util\
->  └─ resources
+>  &nbsp;│	 &nbsp;&nbsp;&nbsp;&nbsp;├─ controller\
+>  &nbsp;│   &nbsp;&nbsp;&nbsp;&nbsp;├─ model\
+>  &nbsp;│	 &nbsp;&nbsp;&nbsp;&nbsp;├─	repo\
+>  &nbsp;│	 &nbsp;&nbsp;&nbsp;&nbsp;├─ services\
+>  &nbsp;│   &nbsp;&nbsp;&nbsp;&nbsp;├─ util\
+>  &nbsp;└─ resources
 
-##Desciption\
+##Desciption
+
 >controller : xử lý request từ client và trả về kết quả\
 >services: Thực hiện các nghiệp vụ và xử lý logic\
 >repo: Chịu trách nhiệm giao tiếp với các DB, thiết bị lưu trữ, xử lý query và trả về các kiểu dữ liệu mà tầng Service yêu cầu( trường hợp có DB)\
