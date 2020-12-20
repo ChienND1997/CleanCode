@@ -1,4 +1,5 @@
-
+## Source code khóa học clean code
+## Source mới nhất được update tại branch feture/dev
 ## Phần mềm tính lương phiên bản 1.0
 
 ## <h1>Cấu trúc dự án:</h1>
