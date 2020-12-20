@@ -1,0 +1,1 @@
+[2020-12-20 13:24:23] ERROR [http-nio-8080-exec-1] HomeController.getEmployees(38) | java.io.CharConversionException: Invalid UTF-8 middle byte 0x68 (at char #15, byte #-1)
