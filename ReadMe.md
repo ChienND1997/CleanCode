@@ -7,11 +7,11 @@
 >src\
 >└─ main\
 >  &nbsp;├─ java.vn.techmaster.payroll\
->  &nbsp;│	 ├─ controller\
->  &nbsp;│   ├─ model\
->  &nbsp;│	 ├─	repo\
->  &nbsp;│	 ├─ services\
->  &nbsp;│   ├─ util\
+>  &nbsp;│	 &nbsp;&nbsp;├─ controller\
+>  &nbsp;│   &nbsp;&nbsp;├─ model\
+>  &nbsp;│	 &nbsp;&nbsp;├─	repo\
+>  &nbsp;│	 &nbsp;&nbsp;├─ services\
+>  &nbsp;│   &nbsp;&nbsp;├─ util\
 >  └─ resources
 
 ##Desciption
@@ -20,7 +20,7 @@
 **repo: Chịu trách nhiệm giao tiếp với các DB, thiết bị lưu trữ, xử lý query và trả về các kiểu dữ liệu mà tầng Service yêu cầu( trường hợp có DB)\
 **model: Khởi tạo entites để lấy các thông tin từ DB, json, csv v.v.v\
 **util: Lưu các giá trị cố định\
-**resources: lưu trữ tài nguyên dự án\
+**resources: lưu trữ tài nguyên dự án
 
 ## Tiến độ
 1. Đọc vào danh sách nhân viên dạng file CSV gồm các trường: 
