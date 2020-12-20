@@ -4,23 +4,23 @@
 :smile::smile:
 ### <h1>Cấu trúc dự án:</h1>
 
-src\
-└─ main\
-  ├─ java.vn.techmaster.payroll\
-  │	 ├─ controller\
-  │  ├─ model\
-  │	 ├─	repo\ 
-  │	 ├─ services\
-  │  ├─ util\	 
-  └─ resources\
+>src\
+>└─ main\
+>  ├─ java.vn.techmaster.payroll\
+>  │	 ├─ controller\
+>  │  ├─ model\
+>  │	 ├─	repo\ 
+>  │	 ├─ services\
+>  │  ├─ util\	 
+>  └─ resources\
 
 ##Desciption
-controller : xử lý request từ client và trả về kết quả\
-services: Thực hiện các nghiệp vụ và xử lý logic\
-repo: Chịu trách nhiệm giao tiếp với các DB, thiết bị lưu trữ, xử lý query và trả về các kiểu dữ liệu mà tầng Service yêu cầu( trường hợp có DB)\
-model: Khởi tạo entites để lấy các thông tin từ DB, json, csv v.v.v\
-util: Lưu các giá trị cố định\
-resources: lưu trữ tài nguyên dự án\
+**controller : xử lý request từ client và trả về kết quả\
+**services: Thực hiện các nghiệp vụ và xử lý logic\
+**repo: Chịu trách nhiệm giao tiếp với các DB, thiết bị lưu trữ, xử lý query và trả về các kiểu dữ liệu mà tầng Service yêu cầu( trường hợp có DB)\
+**model: Khởi tạo entites để lấy các thông tin từ DB, json, csv v.v.v\
+**util: Lưu các giá trị cố định\
+**resources: lưu trữ tài nguyên dự án\
 
 ## Tiến độ
 1. Đọc vào danh sách nhân viên dạng file CSV gồm các trường: 
