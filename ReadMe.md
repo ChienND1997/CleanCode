@@ -16,20 +16,20 @@
 3.
 4.
 5.Hãy lập trình mô hình hoá nghiệp vụ sau đây. Cụ thể là hãy bổ xung các method để hoàn thiện logic. Quan trọng hãy tuân thủ quy tắc Clean Code.
-<a href="https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan1/post-management"></a>
+https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan1/post-management
 ## Phần 2: OOP và SOLID
 ### 1. Hãy lập trình Java để thực hiện thiết kế như hình vẽ
-<a href="https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan1/post-management"></a>
+https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan1/post-management
 
 ### 2. Composition over Inheritance và DI
-<a href="https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan2/GraphicEditor"></a>
+https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan2/GraphicEditor
 
 ## Phần 3: Thiết kế CSDL Quan hệ theo đặc tả
-<a href="https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan3"></a>
+https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan3
 ## Phần 4: Thiết kế RESTful API
 
 ## Phần 5: Lập trình Restful API
-<p>source code <a href="https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan5/spring-trategy-pattern"></a>.</p>
+https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan5/spring-trategy-pattern
 ## Trắc nghiệm
 1. Điều nào không đúng khi nói về Design Pattern?
     - C. Đã được thiết kế và cài đặt ở mức chi tiết.
