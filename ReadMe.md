@@ -16,6 +16,7 @@
 3.
 4.
 5.Hãy lập trình mô hình hoá nghiệp vụ sau đây. Cụ thể là hãy bổ xung các method để hoàn thiện logic. Quan trọng hãy tuân thủ quy tắc Clean Code.
+
 https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan1/post-management
 ## Phần 2: OOP và SOLID
 ### 1. Hãy lập trình Java để thực hiện thiết kế như hình vẽ
