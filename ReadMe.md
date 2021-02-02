@@ -20,10 +20,9 @@
 https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan1/post-management
 ## Phần 2: OOP và SOLID
 ### 1. Hãy lập trình Java để thực hiện thiết kế như hình vẽ
-https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan1/post-management
+https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan2/GraphicEditor
 
 ### 2. Composition over Inheritance và DI
-https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan2/GraphicEditor
 
 ## Phần 3: Thiết kế CSDL Quan hệ theo đặc tả
 https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan3
