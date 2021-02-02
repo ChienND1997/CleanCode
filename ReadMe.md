@@ -16,17 +16,16 @@
 3.
 4.
 5.Hãy lập trình mô hình hoá nghiệp vụ sau đây. Cụ thể là hãy bổ xung các method để hoàn thiện logic. Quan trọng hãy tuân thủ quy tắc Clean Code.
-<p>source code <a href="https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan1/post-management"></a>.</p>
+<a href="https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan1/post-management"></a>
 ## Phần 2: OOP và SOLID
 ### 1. Hãy lập trình Java để thực hiện thiết kế như hình vẽ
-<p>source code <a href="https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan1/post-management"></a>.</p>
+<a href="https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan1/post-management"></a>
 
 ### 2. Composition over Inheritance và DI
-<p>source code <a href="https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan2/GraphicEditor"></a>.</p>
-
+<a href="https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan2/GraphicEditor"></a>
 
 ## Phần 3: Thiết kế CSDL Quan hệ theo đặc tả
-<p>source code <a href="https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan3"></a>.</p>
+<a href="https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan3"></a>
 ## Phần 4: Thiết kế RESTful API
 
 ## Phần 5: Lập trình Restful API
