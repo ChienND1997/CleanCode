@@ -12,6 +12,11 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
+import io.swagger.annotations.ApiOperation;
+import io.swagger.annotations.ApiResponse;
+import io.swagger.annotations.ApiResponses;
+
+
 @RestController
 public class CourseController {
 
@@ -25,6 +30,8 @@ public class CourseController {
 	}
 
 	@GetMapping(value = "/api/v1/courses")
+	@ApiOperation("Get courses")
+	@ApiResponses({ @ApiResponse(code = 200, message = "Get courses successfully") })
 	public ResponseEntity<Course> getCourse(@RequestParam(value = "keyword") String keyword,
 			@RequestParam(value = "sortBy") CourseType type) {
 		try {
