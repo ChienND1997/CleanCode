@@ -40,7 +40,7 @@ https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan2/GraphicEditor
 ## Phần 3: Thiết kế CSDL Quan hệ theo đặc tả
 https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan3
 ## Phần 4: Thiết kế RESTful API
-
+https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan4/registration-user
 ## Phần 5: Lập trình Restful API
 https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan5/spring-trategy-pattern
 ## Trắc nghiệm
@@ -83,9 +83,9 @@ https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan5/spring-trategy-p
 18. Trong Spring Framework, phương pháp xử lý lỗi nào dưới đây cho phép chúng ta xử lý lỗi ở mức toàn ứng dụng (global)?
    - A. Sử dụng @ControllerAdvice và @ExceptionHandler
 19. Để thông báo cho người quản trị hệ thống biết một chức năng đã gặp lỗi, chúng ta nên sử dụng log level nào?
-   - 
+   - B. DEBUG
 20. Để cảnh báo việc tiến trình có thể không chạy đúng với logic, nhưng ứng dụng vẫn có thể tiếp tục, chúng ta nên sử dụng log level nào?
-   - 
+   - B. WARN
 21. Có phải method được đánh dấu annotation @Cacheable luôn được thực thi mỗi khi RESTful API được gọi?
    - A. Có
 22. Anti-pattern Jaywalking phù hợp trong trường hợp nào?
