@@ -1,5 +1,5 @@
 # Nguyễn Đăng Chiến
-## Khoá học Clean Code - Luvina 2020
+## Khoá học Clean Code - 2025
 
 
 ## Phần 1: Clean Code căn bản
@@ -94,3 +94,5 @@ https://github.com/ChienND1997/CleanCode/tree/feature/dev/Phan5/spring-trategy-p
    - C. 5
 25. Tree model nào không dễ để query child node ngay dưới?
    - C. Nested Set
+
+NDCHIEN
